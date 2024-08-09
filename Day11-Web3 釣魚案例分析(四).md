@@ -126,12 +126,34 @@ https://aggrtrade-extension.com/statistics_collection/index.php
 ![](./images/11/6-6.png)
 
 
+案例(6)
+---
+### Daas 釣魚及服务
 
+網路釣魚 目前的網路釣魚攻擊不再只是簡單的位址替換和網路釣魚網站。由於涉及的非法利潤極高，形成了一條完整的黑市產業鏈
 
+🔦 深入分析：
+
+1. `服務推廣`：Inferno Drainer 透過名為 Inferno Multichain Drainer 的 Telegram 頻道來推廣他們的服務，攻擊者也可以透過 Inferno Drainer 的網站存取該服務。
+
+2. `建立釣魚網站`：攻擊者利用DaaS服務功能建立並產生自己的釣魚網站，並透過X（Twitter）、Discord等社群媒體進行推廣。
+
+3. `誘導錢包連線`：誘導受害者掃描這些釣魚網站上的二維碼或使用其他方式連接錢包。
+
+4. `發起惡意交易`：Drainer檢查受害者最有價值且最容易轉移的資產並發起惡意交易。
+
+5. `受害者確認交易`：受害者確認這些交易。
+
+6. `資產轉移`：資產轉移給犯罪者。被竊資產中，20%轉移給Inferno Drainer開發者，80%轉移給釣魚攻擊者。
+
+![](./images/11/7-1.png)
+
+Daas 後台服務畫面....
+
+![](./images/11/7-2.png)
 
 補充：
 ---
-
 [Drainer 攻擊](https://share.foresight-news.com/article/detail/57545)
 
 💓❤🧡💛💚💙💜💖 感謝您的觀看。
